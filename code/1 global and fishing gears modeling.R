@@ -6,7 +6,7 @@ rm(list = ls(all.names = TRUE))
 
 set.seed(2023)
 
-path <- "C:/Users/leona/Desktop/Project Fishing Fleet Modeling"
+path <- "~/Project Fishing Fleet Modeling"
 
 # Raster data
 setwd(paste0(path, "/environmental variables/present/"))
