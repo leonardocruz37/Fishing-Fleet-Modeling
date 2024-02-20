@@ -107,7 +107,7 @@ g6=ggplot(BART_DIFF85_3, aes(x=x,y=y,fill=layer)) +
                      breaks = c(-180,-120,-60,0,60,120,180)) +
   theme_cst
 
-png(paste0(path,'/figures/Figure 3C-F.png'), bg = 'white', height = 10.2, width = 11.3, units = 'in', res = 600)
+png(paste0(path,'/figures/Figure 3C-H.png'), bg = 'white', height = 10.2, width = 11.3, units = 'in', res = 600)
 ggarrange(
   ggarrange(g3 + guides(fill = 'none'), g4, nrow = 1, ncol = 2, labels = c('C','D'), legend = 'right', common.legend = TRUE, align = 'hv'),
   ggarrange(g5 + guides(fill = 'none'), g6, nrow = 1, ncol = 2, labels = c('E','F'), legend = 'right', common.legend = TRUE, align = 'hv'),
