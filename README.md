@@ -5,7 +5,7 @@ The processed Global Fishing Watch data, environmental layers and EEZ boundaries
 
 The code is in order of execution and  restarting the R session in every step is necessary to avoid packages conflicts.
 
-The structure of the project folders is the following:
+The structure of the project folders is the following
 
 Project Fishing Fleet Modeling
   |_ code (in GitHub)
