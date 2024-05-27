@@ -5,17 +5,28 @@ The processed Global Fishing Watch data, environmental layers and EEZ boundaries
 
 The code is in order of execution and  restarting the R session in every step is necessary to avoid packages conflicts.
 
-The structure of the project folders is the following:
+## Folder Structure
 
 Project Fishing Fleet Modeling
-  |_ code (in GitHub)
-  |_ data (in Figshare repository)
-  |_ environmental variables
-    |_ present
-    |_ ssp1_2100
-    |_ ssp4_2100
-  |_ figures
-  |_ output
-    |_ countries
-    |_ fishing gears
-    |_ Global
+
+├── code (in GitHub)
+
+├── data (in Figshare repository)
+
+├── environmental variables
+
+│ ├── present
+
+│ ├── ssp1_2100
+
+│ ├── ssp4_2100
+
+├── figures
+
+├── output
+
+│ ├── countries
+
+│ ├── fishing gears
+
+│ ├── Global
