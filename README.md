@@ -8,7 +8,7 @@ The code is in order of execution and  restarting the R session in every step is
 The structure of the project folders is the following:
 
 Project Fishing Fleet Modeling
-  |_ code (in GitHub) /n
+  |_ code (in GitHub)
   |_ data (in Figshare repository)
   |_ environmental variables
     |_ present
