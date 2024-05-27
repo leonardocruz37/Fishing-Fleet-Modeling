@@ -15,7 +15,7 @@ Project Fishing Fleet Modeling
 
 ├── data (in Figshare repository)
 
-├── environmental variables (donwnload from Bio-ORACLE)
+├── environmental variables (download from Bio-ORACLE)
 
 │ ├── present
 
