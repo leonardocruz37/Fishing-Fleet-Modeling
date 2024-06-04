@@ -1,7 +1,7 @@
 # Fishing-fleet-modeling
 Code associated with the article ***'Fisheries track the future redistribution of marine species'***
 
-The processed Global Fishing Watch data and EEZ boundaries shapefile are available at: doi.org/10.6084/m9.figshare.25112171
+The processed Global Fishing Watch data and EEZ boundaries shapefile are available at: doi.org/10.6084/m9.figshare.25907905
 
 The environmental layers need to be downloaded from Bio-ORACLE (www.bio-oracle.org/downloads-to-email.php) and added to its respective folder, no need to rename any file. Benthic layers is from maximum depth. For all layers, the 'mean' version was used. 
 
