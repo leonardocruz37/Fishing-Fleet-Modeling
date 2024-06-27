@@ -25,6 +25,10 @@ Project Fishing Fleet Modeling
 
 ├── figures
 
+├── supplementary figures
+
+│ ├── diagnostic plots
+
 ├── output
 
 │ ├── countries
