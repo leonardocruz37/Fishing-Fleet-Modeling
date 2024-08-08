@@ -6,7 +6,7 @@ All the data and code necesary to reproduce the results are available at: doi.or
 This compressed file includes:
 
 1) The processed Global Fishing Watch data (2013-2020) | Source: https://globalfishingwatch.org/
-2) EEZ boundaries shapefile version 12 | Source: https://marineregions.org/
+2) Exclusive Economic Zones boundaries shapefile version 12 | Source: https://marineregions.org/
 3) Environmental layers | Source: https://www.bio-oracle.org/
 4) Models output
 5) Additional  files
