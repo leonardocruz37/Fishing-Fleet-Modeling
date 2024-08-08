@@ -5,7 +5,7 @@ All the code and data necessary to reproduce the results is available at: [![DOI
 
 This compressed file includes:
 
-1) The processed Global Fishing Watch data (2013-2020) | Source: https://globalfishingwatch.org/
+1) The processed Global Fishing Watch data (2013-2020) | Source: [![Global Fishing Watch](https://img.shields.io/badge/Global%20Fishing%20Watch-Data%20Source-green)](https://globalfishingwatch.org/)
 2) Exclusive Economic Zones boundaries shapefile version 12 | Source: https://marineregions.org/
 3) Environmental layers | Source: https://www.bio-oracle.org/
 4) Models output
