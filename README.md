@@ -7,9 +7,9 @@ All the code and data necessary to reproduce the results is available at:
 
 This compressed file includes:
 
-1) The processed Global Fishing Watch data (2013-2020) | Source: [![Global Fishing Watch](https://img.shields.io/badge/Global%20Fishing%20Watch-Data%20Source-green)](https://globalfishingwatch.org/)
-2) Exclusive Economic Zones boundaries shapefile version 12 | Source: [![Marine Regions](https://img.shields.io/badge/Marine%20Regions-EEZ%20Shapefile-orange)](https://marineregions.org/)
-3) Environmental layers | Source: [![Bio-ORACLE](https://img.shields.io/badge/Bio--ORACLE-Environmental%20Layers-brightgreen)](https://www.bio-oracle.org/)
+1) The processed Global Fishing Watch data (2013-2020) [![Global Fishing Watch](https://img.shields.io/badge/Global%20Fishing%20Watch-Data%20Source-green)](https://globalfishingwatch.org/)
+2) Exclusive Economic Zones boundaries shapefile version 12 [![Marine Regions](https://img.shields.io/badge/Marine%20Regions-EEZ%20Shapefile-orange)](https://marineregions.org/)
+3) Environmental layers [![Bio-ORACLE](https://img.shields.io/badge/Bio--ORACLE-Environmental%20Layers-brightgreen)](https://www.bio-oracle.org/)
 4) Models output
 5) Additional files
 
