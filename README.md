@@ -1,38 +1,12 @@
 # Fishing-fleet-modeling
-Code associated with the article ***'Fisheries track the future redistribution of marine species'***
-
-The processed Global Fishing Watch data and EEZ boundaries shapefile are available at: doi.org/10.6084/m9.figshare.25907905
-
-The environmental layers need to be downloaded from Bio-ORACLE (www.bio-oracle.org/downloads-to-email.php) and added to its respective folder, no need to rename any file. Benthic layers is from maximum depth. For all layers, the 'mean' version was used. 
-
+Code and additional supplementary figures (Figs. S20-S102) associated with the article ***'Fisheries track the future redistribution of marine species'***
 The code is in order of execution and  restarting the R session in every step is necessary to avoid packages conflicts.
 
-## Folder Structure
+All the data and code necesary to reproduce the results are available at: doi.org/10.6084/m9.figshare.25907905. This compressed file includes:
 
-Project Fishing Fleet Modeling
+1) The processed Global Fishing Watch data (2013-2020) | Source: https://globalfishingwatch.org/
+2) EEZ boundaries shapefile version 12 | Source: https://marineregions.org/
+3) Environmental layers | Source: https://www.bio-oracle.org/
+4) Models output
+5) Additional  files
 
-├── code (in GitHub)
-
-├── data (in Figshare repository)
-
-├── environmental variables (download from Bio-ORACLE)
-
-│ ├── present
-
-│ ├── ssp1_2100
-
-│ ├── ssp4_2100
-
-├── figures
-
-├── supplementary figures
-
-│ ├── diagnostic plots
-
-├── output
-
-│ ├── countries
-
-│ ├── fishing gears
-
-│ ├── Global
