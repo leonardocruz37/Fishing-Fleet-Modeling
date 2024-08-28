@@ -10,5 +10,6 @@ This compressed file includes:
 1) The processed Global Fishing Watch data (2013-2020) | Source: https://globalfishingwatch.org/
 2) Exclusive Economic Zones boundaries shapefile version 12 | Source: https://marineregions.org/
 3) Environmental layers | Source: https://www.bio-oracle.org/
-4) Models output
-5) Additional  files
+4) List of the 82 countries and their regions according to the World Bank
+5) Models output
+6) Packages used that are not in CRAN (cannot be download through R) - just copy them to the folder where the other packages are installed
