@@ -12,4 +12,4 @@ This compressed file includes:
 3) Environmental layers | Source: https://www.bio-oracle.org/
 4) List of the 82 countries and their regions according to the World Bank
 5) Models output
-6) Packages used that are not in CRAN (cannot be download through R) - just copy them to the folder where the other packages are installed
+6) Packages used that are not in CRAN (cannot be download through R) - just copy them to the folder where the other packages are installed. rgdal and maptools for figures and embarcadero for modelling (https://github.com/cjcarlson/embarcadero)
